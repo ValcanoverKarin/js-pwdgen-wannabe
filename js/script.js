@@ -6,7 +6,7 @@ console.log(nomeUtente);
 var cognomeUtente = prompt('Inserisci il tuo cognome');
 console.log(cognomeUtente);
 
-var coloreUtente = prompt('Qual è il tuo colore preferito');
+var coloreUtente = prompt('Inserisci il tuo colore preferito');
 console.log(coloreUtente);
 
 var annoCorrente = '21';
